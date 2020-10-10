@@ -494,7 +494,7 @@ computadores que podem ser alugados
   preocuparmos com a **manutenção** do hardware e do software
 
 ---
-# Exemplo de CD no CGP
+# Exemplo de CD no GCP
 
 1. Menu Lateral
 
@@ -515,7 +515,7 @@ computadores que podem ser alugados
 1. Garantir sucesso
 
 ---
-# Exemplo de deploy no CGP
+# Exemplo de deploy no GCP
 
 1. Menu Lateral
 
@@ -536,7 +536,7 @@ computadores que podem ser alugados
 1. Implante uma **imagem** de contêiner nesta instância de VM
 
 ---
-# Exemplo de deploy no CGP (cont.)
+# Exemplo de deploy no GCP (cont.)
 
 1. Menu Lateral
 
@@ -728,7 +728,7 @@ CMD R -e "options('shiny.port'=80,shiny.host='0.0.0.0');exemplo::run_app()"
 ```
 
 ---
-# Exemplo de CD no CGP
+# Exemplo de CD no GCP
 
 1. Menu Lateral
 
@@ -749,7 +749,7 @@ CMD R -e "options('shiny.port'=80,shiny.host='0.0.0.0');exemplo::run_app()"
 1. Garantir sucesso
 
 ---
-# Exemplo de deploy no CGP
+# Exemplo de deploy no GCP
 
 1. Menu Lateral
 
